@@ -1,6 +1,6 @@
 # AESCHIPER
 
-example 
+# example 
 
 $secretKey = 'AjGfpbbQmU7EAnkJ';
 $text = 'text yg akan di encode atau di decode';
